@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ICT-Denti
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Alexander Denti
+- 👀 I’m interested in programming, desgining 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me not.
