@@ -4,7 +4,7 @@
 - 👀 I’m interested in programming, desgining, hiking and philosophy 
 - 🌱 I’m currently learning Ionic Angular and everyday news in my life. 😉
 - 👄 I speak perfect German and have a level B2 in wirting, listing and reading. 
-- 📫 How to reach me? You can write me a mail under this adress: alexander.denti@kauz.ch
+- 📫 How to reach me? You can write me a mail under this adress: alexander.denti@gmail.com
 
 <!---
 ICT-Denti/ICT-Denti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
